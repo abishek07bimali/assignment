@@ -4,6 +4,6 @@ A=["Abas","Abd","Aba","Asa"]
 B=0
 
 for word in A:
-    if len(word)>1 and word[0]==word[-1]:
-        B+=1
+    if len(word)>1 (word[0]==word[-1]):
+        B=B+1
 print(B)
